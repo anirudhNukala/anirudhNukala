@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @anuk1244
-- 👀 I’m interested in learning programming skills before college
-- 🌱 I’m currently learning JavaScript, HTML, CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in learning programming skills for an internship
+- 🌱 I’m currently learning JavaScript, C/C#/C++
+- 💞️ I’m looking to collaborate on coding projects
+- 📫 How to reach me anirudh.nukala@gmail.com
 
 <!---
 anuk1244/anuk1244 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
