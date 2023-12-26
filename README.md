@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @anuk1244
+- 👋 Hi, I’m @anirudhNukala
 - 👀 I’m interested in learning programming skills for an internship
-- 🌱 I’m currently learning Frontend, C/C++
+- 🌱 I’m currently learning Data Structures and Algorithms, C++, and Full Stack Development
 - 💞️ I’m looking to collaborate on coding projects
-- 📫 How to reach me anirudh.nukala@gmail.com
+- 📫 How to reach me - anirudh.nukala@gmail.com
 
 <!---
 anuk1244/anuk1244 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
